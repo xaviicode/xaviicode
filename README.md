@@ -5,6 +5,9 @@
 
 ---
 
+![1730518304987](https://github.com/user-attachments/assets/b248946a-06ef-4a03-9595-fddc12f2cb5b)
+
+
 ## ✨ Sobre mí
 
 Soy Oscar Javier López Gómez, desarrollador Full Stack en formación, con una profunda pasión por la tecnología, el desarrollo personal y el servicio a los demás. Tengo experiencia en seguridad electrónica, lo que me ha enseñado a desarrollar con visión crítica y funcional.
