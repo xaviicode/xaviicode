@@ -61,7 +61,7 @@ Construyendo un blog profesional con React, donde comparto experiencias de desar
 Estoy abierto a colaboraciones, desafíos de código o propuestas que me ayuden a seguir creciendo y aportar valor. Si estás construyendo algo grande (¡o pequeño pero potente!), hablemos.
 
 📩 **xavilopez1612@gmail.com**  
-🔗 [LinkedIn]([https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/oscar-l%C3%B3pez-08a355a3/))
+🔗 [LinkedIn](https://www.linkedin.com/in/oscar-l%C3%B3pez-08a355a3/)
 
 ---
 
